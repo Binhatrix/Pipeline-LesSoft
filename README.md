@@ -16,10 +16,12 @@
 - Thiago Zupelli - RM99085
 
 ## Documentação completa
-[PDF com a documentação completa.](TPC_JavaAdvanced_1stSprint.pdf)
+[PDF com a documentação completa LesSoft_pipelines.pdf](https://github.com/user-attachments/files/17604354/LesSoft_pipelines.pdf)
+
+
 
 ## Link para vídeo com o passo a passo do deploy e utilização
-[![Vídeo TPC](http://img.youtube.com/vi/3V5XxM7scrQ/0.jpg)](https://www.youtube.com/watch?v=T1zjPXHdDEk)
+[![Vídeo TPC](https://github.com/user-attachments/assets/b13d2015-f2ee-4aa8-8bb5-d01ef767353e)](https://www.youtube.com/watch?v=T1zjPXHdDEk)
 
 ## Instruções para Deploy
 1. **Vamos criar o Serviço de Aplicativo no Portal da Azure. Na aba Básico deixe as propriedades dessa forma**:
