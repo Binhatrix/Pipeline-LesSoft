@@ -19,7 +19,9 @@
 [PDF com a documentação completa.](TPC_JavaAdvanced_1stSprint.pdf)
 
 ## Link para vídeo com o passo a passo do deploy e utilização
-[![Vídeo TPC](http://img.youtube.com/vi/3V5XxM7scrQ/0.jpg)](https://www.youtube.com/watch?v=T1zjPXHdDEk)
+
+
+[![Vídeo TPC]![image](https://github.com/user-attachments/assets/cc34154e-ddf9-4927-bcd6-afb91b3320d6)](https://www.youtube.com/watch?v=T1zjPXHdDEk)
 
 ## Instruções para Deploy
 1. **Vamos criar o Serviço de Aplicativo no Portal da Azure. Na aba Básico deixe as propriedades dessa forma**:
